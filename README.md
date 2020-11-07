@@ -1,5 +1,7 @@
 # hello-world
 For the first time
 
-What should I write?
+Delete something.
 I haven't finished my Practice yet.
+
+Let's make some changes!(by vim)
